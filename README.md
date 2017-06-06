@@ -8,3 +8,8 @@ print (name)
 age = int(input("Enter age: "))
 print (age)
 # Date 6/6/2017, 
+
+for i in range(10):
+  print (i)
+  
+ 
