@@ -9,7 +9,7 @@ age = int(input("Enter your age: ")) #need to convert to int because input now c
 print (age)
 # Date 6/13/2017, 
 
-for i in range(20):
+for i in range(50):
   print (i)
   
 for j in range(20):
