@@ -5,8 +5,8 @@ Trying out GitHub
 # range vs xrange,  input vs raw_input  all in as string, () in print statement
 name = input("Enter name")
 print (name)
-age = int(input("Enter your age: ")) #need to convert to int because input now comes in as string.
-print (age)
+theAge = int(input("Enter your age: ")) #need to convert to int because input now comes in as string.
+print (theAge)
 # Date 6/13/2017, 
 
 for i in range(50):
