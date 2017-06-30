@@ -18,6 +18,12 @@ for j in range(20):
     
   print ("\n")
   
+for x in range(100):
+  for y in range(100:
+    print (x,y,end=" ")
+    
+
+  
 # printing out j,k values
 
 
