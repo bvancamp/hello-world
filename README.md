@@ -9,7 +9,7 @@ theAge = int(input("Enter your age: ")) #need to convert to int because input no
 print (theAge)
 # Date 6/13/2017, 
 
-for i in range(50):
+for i in range(10000):
   print (i)
   
 for j in range(20):
